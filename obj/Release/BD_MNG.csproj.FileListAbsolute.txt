@@ -1,0 +1,7 @@
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\BD_MNG\bin\Release\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\BD_MNG\bin\Release\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\BD_MNG\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\BD_MNG\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\BD_MNG\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\BD_MNG\obj\Release\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\BD_MNG\obj\Release\BD_MNG.pdb

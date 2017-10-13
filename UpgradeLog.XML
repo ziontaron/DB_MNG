@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BD_MNG">
+</Property><Property Name="Solution File" Value="C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\BD_MNG.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\BD_MNG.suo">
+</Property><Property Name="Date" Value="Friday, February 21, 2014">
+</Property><Property Name="Time" Value="15:08 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BD_MNG.sln" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\Backup\BD_MNG.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BD_MNG.suo" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\Backup\BD_MNG.suo">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG.csproj" Description="Project file successfully backed up as C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\Backup\BD_MNG.csproj">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\Backup\BD_MNG.cs">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="ClassDiagram1.cd" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\BD_MNG\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BD_MNG" Source="BD_MNG.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="BD_MNG.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BD_MNG.sln" Description="Converted">
+</Event></UpgradeLog>
